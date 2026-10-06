@@ -1,14 +1,44 @@
 # Email Administrator
 
-A simple email administrator tool to manage email lists, send emails, and track sent emails.
+A Java Spring Boot application for managing email subscribers and sending emails to multiple recipients from a centralized system.
 
 ## Features
-- Add or remove emails from the list
-- Send emails to all users on the list
-- View log of sent emails
 
-## Setup
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the script: `python email_admin.py`
+- Add email subscribers
+- View all subscribers
+- Remove subscribers
+- Send emails to all subscribers
+- Store email-sending records in a database
+- Gmail SMTP integration
 
-Make sure to configure the SMTP server settings in `email_sender.py` with your credentials.
+## Technologies
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Hibernate
+- Gmail SMTP
+- Maven
+- REST API
+
+## How It Works
+
+The application allows an administrator to maintain a list of email subscribers and send a single message to all subscribers at once.
+
+Example workflow:
+
+```text
+Administrator
+     ↓
+Add Subscribers
+     ↓
+MySQL Database
+     ↓
+Create Email
+     ↓
+JavaMailSender
+     ↓
+Gmail SMTP
+     ↓
+All Subscribers
