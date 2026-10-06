@@ -1,0 +1,9 @@
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\controller\EmailController.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\controller\EmailLogController.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\dto\SendEmailRequest.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\EmailAdministratorApplication.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\model\EmailLog.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\model\EmailSubscriber.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\repository\EmailLogRepository.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\repository\EmailSubscriberRepository.java
+C:\Users\LENNY\Desktop\GITHUB notes\An-Email-Administration-Application-For-Entreprises\src\main\java\com\example\emailadmin\service\EmailService.java

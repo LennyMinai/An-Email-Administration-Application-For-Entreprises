@@ -5,7 +5,6 @@ import com.example.emailadmin.model.EmailLog;
 import com.example.emailadmin.model.EmailSubscriber;
 import com.example.emailadmin.repository.EmailLogRepository;
 import com.example.emailadmin.repository.EmailSubscriberRepository;
-
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Service;
